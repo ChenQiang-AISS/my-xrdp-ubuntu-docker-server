@@ -1,4 +1,4 @@
-FROM danielguerra/ubuntu-xrdp:16.04
+FROM danielguerra/ubuntu-xrdp:18.04
 ENV HOSTNAME=terminalserver
 ENV HOST_NAME=terminalserver
 
