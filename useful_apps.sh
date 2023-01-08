@@ -5,4 +5,5 @@ dpkg --add-architecture i386
 apt update
 apt install wine64 -y
 
-pip3 install webssh
+python3 -m pip install --upgrade pip 
+pip3 install webssh 
